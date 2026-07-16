@@ -30,4 +30,4 @@ AI-generated images can still vary. Review each result before using it in your s
 
 ## Next step
 
-Follow the [Quick Start](quick-start.md) or go directly to [Create Your First Image](create-your-first-image.md).
+Start with [Generate Your First Image](generate-your-first-image.md).

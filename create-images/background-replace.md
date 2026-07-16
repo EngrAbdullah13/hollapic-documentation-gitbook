@@ -1,36 +1,34 @@
 # Background Replace
 
-Background Replace changes the environment around your product while keeping the product itself.
+Use Background Replace when you want to keep your product and change the environment around it.
 
-This is useful when the product position and camera angle are already correct, but you need a cleaner, more attractive, or more relevant background.
+{% hint style="info" %}
+Screenshot needed: The **Background Replace** screen in Hollapic Studio. Show this generation type selected, the required upload areas, optional controls, image size or resolution controls, Brand DNA option, and Generate button. Place this image here.
+{% endhint %}
 
-## How to do it
+## How to generate an image
 
-1. Select **Background Replace**.
-2. Upload your product image first.
-3. Add a reference environment image when the workflow asks for one.
-4. Describe the new background, lighting, and mood.
-5. Select **Generate**.
+1. Sign up or log in to Hollapic and open **Studio**.
+2. Set up Brand DNA if you want Hollapic to follow your saved brand direction. This is optional.
+3. Select **Background Replace**.
+4. Upload the product image and any required background or environment image shown in Studio.
+5. Add optional instructions to describe the new background, lighting, mood, surface, or props.
+6. Choose the image size and resolution or quality.
+7. Turn on Brand DNA if you have already set it up and want to use it for this generation.
+8. Select **Generate**.
 
 ## Example instruction
 
-> Replace the background with a bright luxury bathroom. Use soft window light and a slightly blurred background. Keep the product exactly as uploaded.
+> Replace the background with a bright luxury bathroom. Use soft window light and keep the product exactly as uploaded.
 
 ## What happens next
 
-Hollapic keeps the main product and creates a new surrounding environment.
+Hollapic keeps the product as the main subject and creates a new surrounding environment.
 
-## Tips for better results
+Review the product, label, logo, colors, text, and overall image before downloading or copying it.
 
-- Use a source image with clear product edges.
-- Avoid instructions that ask Hollapic to redesign the product.
-- Describe the background separately from the product.
-- Check the label, logo, colors, and packaging shape before publishing.
+## Related guides
 
-{% hint style="info" %}
-Screenshot needed: Background Replace workflow with the product upload, reference environment upload, and instruction box visible. Label which image is the product and which is the reference. Place this after the steps.
-{% endhint %}
-
-## Having trouble?
-
-See [Common Image Problems](../help/common-image-problems.md).
+- [Select the Right Generation Type](select-generation-type.md)
+- [Download and Copy Images](download-and-copy.md)
+- [Generation Type Use Cases](generation-type-use-cases.md)

@@ -1,44 +1,34 @@
 # Product Swap
 
-Product Swap places your uploaded product into a reference scene.
+Use Product Swap to place your product into a target or reference scene.
 
-Use this when you like the environment, camera angle, lighting, or composition of another image and want your own product placed into that scene.
+{% hint style="info" %}
+Screenshot needed: The **Product Swap** screen in Hollapic Studio. Show this generation type selected, the required upload areas, optional controls, image size or resolution controls, Brand DNA option, and Generate button. Place this image here.
+{% endhint %}
 
-## Image order
+## How to generate an image
 
-1. **First image:** your product
-2. **Second image:** the target scene
-
-The order matters.
-
-## How to do it
-
-1. Select **Product Swap**.
-2. Upload your product image first.
-3. Upload the reference scene second.
-4. Add any instructions about placement or scale.
-5. Select **Generate**.
+1. Sign up or log in to Hollapic and open **Studio**.
+2. Set up Brand DNA if you want Hollapic to follow your saved brand direction. This is optional.
+3. Select **Product Swap**.
+4. Upload your product in the product upload area and the target scene in the reference-scene upload area.
+5. Add optional instructions about product placement, scale, angle, perspective, or shadows.
+6. Choose the image size and resolution or quality.
+7. Turn on Brand DNA if you have already set it up and want to use it for this generation.
+8. Select **Generate**.
 
 ## Example instruction
 
-> Place my bottle where the original product appears. Match the scene lighting, perspective, shadows, and camera angle. Keep all other scene elements unchanged.
+> Place my bottle where the original product appears. Match the lighting, perspective, shadows, and camera angle.
 
 ## What happens next
 
-Hollapic uses the reference image for the scene and replaces the main product with your uploaded product.
+Hollapic places your product into the reference scene while matching the scene’s lighting and composition.
 
-## Tips for better results
-
-- Choose a reference scene with a product of a similar size and angle.
-- Make sure your source product is clear and not heavily cropped.
-- Ask Hollapic not to replace unrelated objects.
-- Check that the product scale and shadows look natural.
-
-{% hint style="info" %}
-Screenshot needed: Product Swap screen showing Product Image as image 1 and Reference Scene as image 2. Add simple numbered labels or highlights. Place this below “Image order.”
-{% endhint %}
+Review the product, label, logo, colors, text, and overall image before downloading or copying it.
 
 ## Related guides
 
-- [Choose the Right Workflow](choose-a-workflow.md)
-- [Common Image Problems](../help/common-image-problems.md)
+- [Select the Right Generation Type](select-generation-type.md)
+- [Download and Copy Images](download-and-copy.md)
+- [Generation Type Use Cases](generation-type-use-cases.md)

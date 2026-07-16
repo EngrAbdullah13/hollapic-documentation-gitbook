@@ -1,42 +1,34 @@
 # Style Copy
 
-Style Copy uses another image as inspiration for lighting, mood, color grading, composition, and photography style.
+Use Style Copy to create a new image inspired by another image’s lighting, mood, colors, composition, and photography style.
 
-It should create a new image rather than copy the exact scene, person, or branded content.
+{% hint style="info" %}
+Screenshot needed: The **Style Copy** screen in Hollapic Studio. Show this generation type selected, the required upload areas, optional controls, image size or resolution controls, Brand DNA option, and Generate button. Place this image here.
+{% endhint %}
 
-## Image order
+## How to generate an image
 
-1. **First image:** your product
-2. **Second image:** the style reference
-
-## How to do it
-
-1. Select **Style Copy**.
-2. Upload your product image.
-3. Upload the style reference image.
-4. Describe which parts of the style you want to follow.
-5. Select **Generate**.
+1. Sign up or log in to Hollapic and open **Studio**.
+2. Set up Brand DNA if you want Hollapic to follow your saved brand direction. This is optional.
+3. Select **Style Copy**.
+4. Upload your product image and the style-reference image in the correct upload areas.
+5. Add optional instructions explaining which style details matter most. Ask for a new scene rather than an exact copy.
+6. Choose the image size and resolution or quality.
+7. Turn on Brand DNA if you have already set it up and want to use it for this generation.
+8. Select **Generate**.
 
 ## Example instruction
 
-> Use the reference only for warm lighting, soft shadows, muted colors, and the close-up photography style. Create a new environment and keep my product unchanged.
+> Use the reference for warm lighting, muted colors, soft shadows, and close-up photography. Create a new environment and keep my product unchanged.
 
-## When the reference includes a person
+## What happens next
 
-Hollapic should create a different person in a similar role or pose. It should not recreate the same person from the reference image.
+Hollapic creates a new image that follows the visual direction of the reference without copying the exact scene or person.
 
-## Tips for better results
-
-- Say which style elements matter most.
-- Ask for a new composition.
-- Avoid references dominated by another brand’s logo or packaging.
-- Do not ask Hollapic to copy a real person.
-
-{% hint style="info" %}
-Screenshot needed: Style Copy workflow with the product image and style reference image visible. Highlight the correct upload order and the instruction box. Place this after the steps.
-{% endhint %}
+Review the product, label, logo, colors, text, and overall image before downloading or copying it.
 
 ## Related guides
 
-- [Product Swap](product-swap.md)
-- [Common Image Problems](../help/common-image-problems.md)
+- [Select the Right Generation Type](select-generation-type.md)
+- [Download and Copy Images](download-and-copy.md)
+- [Generation Type Use Cases](generation-type-use-cases.md)

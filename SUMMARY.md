@@ -5,19 +5,23 @@
 ## Getting Started
 
 * [What is Hollapic?](getting-started/what-is-hollapic.md)
-* [Quick Start](getting-started/quick-start.md)
-* [Create Your First Image](getting-started/create-your-first-image.md)
+* [Generate Your First Image](getting-started/generate-your-first-image.md)
 
 ## Create Images
 
-* [Choose the Right Workflow](create-images/choose-a-workflow.md)
+* [Select the Right Generation Type](create-images/select-generation-type.md)
 * [General Image Generation](create-images/general-image-generation.md)
 * [Background Replace](create-images/background-replace.md)
 * [Product Swap](create-images/product-swap.md)
 * [Style Copy](create-images/style-copy.md)
-* [Other Image Tools](create-images/other-image-tools.md)
-* [Image Guidelines](create-images/image-guidelines.md)
-* [Downloads and History](create-images/downloads-and-history.md)
+* [Label Generation](create-images/label-generation.md)
+* [Image Banner](create-images/image-banner.md)
+* [Packaging Mockup](create-images/packaging-mockup.md)
+* [Collection Image](create-images/collection-image.md)
+* [Product Infographic](create-images/product-infographic.md)
+* [Product to Full Image](create-images/product-to-full-image.md)
+* [Download and Copy Images](create-images/download-and-copy.md)
+* [Generation Type Use Cases](create-images/generation-type-use-cases.md)
 
 ## Brand DNA
 
