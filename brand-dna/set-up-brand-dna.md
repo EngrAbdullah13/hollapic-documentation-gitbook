@@ -1,29 +1,45 @@
-# Set up Brand DNA
+# Set Up Brand DNA
 
-Brand DNA can be completed during onboarding or edited later in settings.
+Brand DNA helps Hollapic understand the visual direction of your brand.
 
-{% hint style="info" %}
-Screenshot required: Brand DNA onboarding screen showing the step progress, brand/business name field, what-do-you-sell field, and continue button.
-{% endhint %}
+It can include your brand name, what you sell, your audience, brand feel, preferred colors, and website.
 
 ## Before you begin
 
-- Sign in to Hollapic.
-- Prepare your brand name and a short description of what you sell.
+Prepare:
 
-## Steps
+- Your brand or business name
+- A short description of what you sell
+- Your main customer audience
+- A few words that describe your visual style
+- Preferred brand colors
+- Your website address, when available
 
-1. Open Brand DNA onboarding or **Settings -> Brand DNA**.
-2. Enter the brand or business name.
-3. Enter what the business sells.
-4. Optionally add customer audience, brand feel, preferred colors, and website URL.
-5. Finish the profile.
+## How to set it up
 
-## Expected result
+1. Open Brand DNA during onboarding or go to **Settings → Brand DNA**.
+2. Enter your brand or business name.
+3. Describe what you sell.
+4. Add your customer audience.
+5. Choose the words that best match your brand feel.
+6. Add your preferred colors.
+7. Add your website or inspiration references when those options are available.
+8. Save or finish the setup.
 
-Hollapic saves the profile, creates a deterministic brand summary, and makes the **Use Brand DNA** toggle available when generating.
+{% hint style="info" %}
+Screenshot needed: Brand DNA onboarding with the progress steps, brand name, “what do you sell?” field, and Continue button visible. Place this after step 3.
+{% endhint %}
 
-## Related guides
+{% hint style="info" %}
+Screenshot needed: Brand feel and preferred color selection. Highlight two or three selected style options and the color controls. Place this after step 6.
+{% endhint %}
 
-- [Brand and business information](brand-business-information.md)
-- [Edit Brand DNA](edit-brand-dna.md)
+{% hint style="info" %}
+Video needed: **Brand DNA and Team Workspaces** — a short walkthrough showing Brand DNA setup, style and color selection, inviting a collaborator, switching workspaces, and managing shared credits.
+{% endhint %}
+
+## What happens next
+
+When Brand DNA is available in Studio, you can turn it on for a generation. Hollapic then uses your saved brand information as guidance.
+
+Brand DNA guides the visual direction, but your uploaded product and current instructions remain more important.

@@ -1,78 +1,49 @@
-# Hollapic Documentation
+# Hollapic Help Center
 
-Hollapic helps ecommerce brands and Shopify merchants create conversion-focused product images while preserving product identity, branding, packaging, labels, colors, and visual consistency.
-
-Use this documentation to learn the product, generate reliable images, configure Brand DNA, collaborate with agencies, understand credits and billing, and operate the application safely.
-
-{% hint style="info" %}
-Screenshot required: Hollapic Studio home screen with the workflow selector, upload node, output node, credits, workspace switcher, and user menu visible.
-{% endhint %}
+Learn how to create professional product images, keep your brand consistent, manage credits, and work with your team.
 
 ## Start here
 
-| I want to... | Go to |
+| I want to… | Open this guide |
 | --- | --- |
-| Learn the product quickly | [Hollapic overview](getting-started/overview.md) |
-| Generate my first product image | [Generate your first image](getting-started/generate-first-image.md) |
-| Pick the right workflow | [Choose the correct workflow](generation-workflows/choosing-workflow.md) |
-| Configure brand style guidance | [Set up Brand DNA](brand-dna/set-up-brand-dna.md) |
-| Invite an agency or collaborator | [Invite an agency or collaborator](teams-and-workspaces/invite-collaborator.md) |
-| Understand credits and billing | [How credits work](plans-and-billing/how-credits-work.md) |
-| Set up the project locally | [Local development](developer-guide/local-development.md) |
+| Create my first image | [Create your first image](getting-started/create-your-first-image.md) |
+| Learn the basic workflow | [Quick start](getting-started/quick-start.md) |
+| Choose the right image tool | [Choose a workflow](create-images/choose-a-workflow.md) |
+| Set up my brand style | [Set up Brand DNA](brand-dna/set-up-brand-dna.md) |
+| Invite an agency or teammate | [Invite and manage collaborators](teams-and-workspaces/invite-and-manage-collaborators.md) |
+| Understand credits and plans | [Plans, credits, and renewals](credits-and-billing/plans-credits-and-renewals.md) |
+| Fix a problem | [Common image problems](help/common-image-problems.md) |
 
-## Choose your role
+{% hint style="info" %}
+Video needed: **Hollapic Quick Start** — a 2–4 minute walkthrough showing how to choose a workflow, upload a product, write instructions, select a size, generate an image, and download the result.
+{% endhint %}
 
-| Role | Best starting point | What you can do |
-| --- | --- | --- |
-| Merchants and Brands | [Quick start](getting-started/quick-start.md) | Upload products, generate images, use Brand DNA, buy plans, invite collaborators. |
-| Agencies and Collaborators | [Shared Workspace overview](teams-and-workspaces/overview.md) | Accept invitations, switch workspaces, generate using approved owner credits, download outputs. |
-| Developers | [Developer overview](developer-guide/overview.md) | Understand architecture, local setup, Prisma, Stripe, prompt planning, and deployment. |
-| Administrators | [Administration overview](administration/overview.md) | Use internal tools, prompt testing, app image management, and production checks. |
+## What would you like to do?
 
-## Popular workflows
+### Create product images
 
-- [Generate your first image](getting-started/generate-first-image.md)
-- [Create a commercial lifestyle image](generation-workflows/general-image-generation.md)
-- [Replace a product background](generation-workflows/background-replace.md)
-- [Use Product Swap](generation-workflows/product-swap.md)
-- [Copy a reference style](generation-workflows/style-copy.md)
-- [Configure Brand DNA](brand-dna/set-up-brand-dna.md)
-- [Invite an agency](teams-and-workspaces/invite-collaborator.md)
-- [Manage workspace credits](teams-and-workspaces/collaborator-credit-limits.md)
-- [Understand plans and credits](plans-and-billing/how-credits-work.md)
+Create lifestyle photos, replace backgrounds, place a product into a reference scene, or use another image as style inspiration.
 
-## New to Hollapic?
+[Explore image workflows](create-images/choose-a-workflow.md)
 
-Start with [Hollapic overview](getting-started/overview.md), then follow [Quick start](getting-started/quick-start.md). If you already have a product image, go straight to [Generate your first image](getting-started/generate-first-image.md).
+### Keep your brand consistent
 
-## Explore by workflow
+Add your brand name, audience, visual feel, preferred colors, and website to Brand DNA. Hollapic can use this information as guidance during future generations.
 
-Hollapic workflows are designed around ecommerce tasks such as replacing backgrounds, placing products into scenes, copying a reference style without copying brand assets, generating labels, creating banners, building packaging mockups, creating collection images, and producing product infographics.
+[Set up Brand DNA](brand-dna/set-up-brand-dna.md)
 
-[Explore generation workflows](generation-workflows/overview.md)
+### Work with an agency or team
 
-## Explore by role
+Invite a collaborator without sharing your password. You can decide whether they use full credit access or a limited credit allowance.
 
-Owners manage credits, billing, Brand DNA, and shared access. Collaborators work inside owner workspaces and generate images using the access granted by the owner. Admins use internal tools for testing and operational review.
+[Manage collaborators](teams-and-workspaces/invite-and-manage-collaborators.md)
 
-[Learn workspace roles](teams-and-workspaces/roles.md)
+### Get help
 
-## Developer resources
+Find practical fixes for image, credit, workspace, login, and billing problems.
 
-- [Architecture](developer-guide/architecture.md)
-- [Repository structure](developer-guide/repository-structure.md)
-- [Database and Prisma](developer-guide/database-and-prisma.md)
-- [Prompt planning pipeline](developer-guide/prompt-planning-pipeline.md)
-- [Production deployment](developer-guide/production-deployment.md)
+[Open Help](help/common-image-problems.md)
 
-## Troubleshooting
-
-For practical fixes, start with [Troubleshooting overview](troubleshooting/overview.md). Common topics include failed generations, changed product details, OTP email issues, workspace invitation problems, credit issues, and billing problems.
-
-## Latest updates
-
-See [What’s new](release-notes/whats-new.md), [Migration notes](release-notes/migration-notes.md), and [Known issues](release-notes/known-issues.md).
-
-## Contact support
-
-For help with account, billing, generation, or workspace issues, see [Contact support](support/contact-support.md).
+{% hint style="info" %}
+Screenshot needed: Hollapic Studio home screen. Show the workflow selector, product upload area, instruction box, image-size control, Generate button, credits, workspace switcher, and user menu. Place this image below the introduction.
+{% endhint %}
