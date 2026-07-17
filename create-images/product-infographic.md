@@ -2,9 +2,7 @@
 
 Use Product Infographic to create a product-focused image with feature, benefit, ingredient, dimension, or usage callouts.
 
-{% hint style="info" %}
-Screenshot needed: The **Product Infographic** screen in Hollapic Studio. Show this generation type selected, the required upload areas, optional controls, image size or resolution controls, Brand DNA option, and Generate button. Place this image here.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-07-16 174334.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## How to generate an image
 
@@ -29,6 +27,6 @@ Review the product, label, logo, colors, text, and overall image before download
 
 ## Related guides
 
-- [Select the Right Generation Type](select-generation-type.md)
-- [Download and Copy Images](download-and-copy.md)
-- [Generation Type Use Cases](generation-type-use-cases.md)
+* [Select the Right Generation Type](select-generation-type.md)
+* [Download and Copy Images](download-and-copy.md)
+* [Generation Type Use Cases](generation-type-use-cases.md)

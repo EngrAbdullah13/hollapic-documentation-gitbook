@@ -9,9 +9,7 @@ The workspace switcher lets you move between your personal workspace and workspa
 3. Wait for the workspace name and available credits to update.
 4. Create images in the selected workspace.
 
-{% hint style="info" %}
-Screenshot needed: Workspace switcher open in the Studio header. Show Personal Workspace and at least one shared workspace. Highlight the active workspace. Place this after the steps.
-{% endhint %}
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Full Credit Access
 
@@ -25,9 +23,7 @@ A collaborator with limited access can use only the allowance assigned by the ow
 
 The collaborator sees the remaining amount from that allowance, not the owner’s full credit total.
 
-{% hint style="info" %}
-Screenshot needed: Credit-access settings showing Full Credit Access and Limited Credit Access, with a limited credit amount entered. Place this below the access explanations.
-{% endhint %}
+<figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Generation history
 
@@ -37,6 +33,6 @@ Images created in a shared workspace are saved in the owner’s workspace histor
 
 Always check:
 
-- The correct workspace is selected.
-- The displayed credits match the workspace you intend to use.
-- Your access is still active.
+* The correct workspace is selected.
+* The displayed credits match the workspace you intend to use.
+* Your access is still active.

@@ -16,9 +16,11 @@ The collaborator works inside the owner’s workspace and uses the access grante
 8. For limited access, enter the credit allowance.
 9. Send the invitation.
 
-{% hint style="info" %}
-Screenshot needed: Invite Collaborator form showing email, workspace name, access type, limited credit amount, and Send Invitation button. Highlight each required field. Place this after the steps.
-{% endhint %}
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## What happens next
 
@@ -28,10 +30,10 @@ The collaborator receives an email with an invitation link. After they accept, t
 
 From **Invite Team**, an owner can:
 
-- Review pending and active invitations
-- Change access type or limited credit allowance
-- Check collaborator usage
-- Remove access
+* Review pending and active invitations
+* Change access type or limited credit allowance
+* Check collaborator usage
+* Remove access
 
 ## What collaborators can do
 

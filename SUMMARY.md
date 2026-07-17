@@ -1,4 +1,4 @@
-# Hollapic Help Center
+# Table of contents
 
 * [Home](README.md)
 
@@ -19,7 +19,6 @@
 * [Packaging Mockup](create-images/packaging-mockup.md)
 * [Collection Image](create-images/collection-image.md)
 * [Product Infographic](create-images/product-infographic.md)
-* [Product to Full Image](create-images/product-to-full-image.md)
 * [Download and Copy Images](create-images/download-and-copy.md)
 * [Generation Type Use Cases](create-images/generation-type-use-cases.md)
 

@@ -20,14 +20,12 @@ You can set it up before your first generation or skip it and continue directly 
 
 Choose the generation type that matches the image you want to create. For example:
 
-- Use **General Image Generation** for a complete commercial or lifestyle image.
-- Use **Background Replace** to change the environment around your product.
-- Use **Product Swap** to place your product into a reference scene.
-- Use **Style Copy** to follow the lighting, mood, and photography style of another image.
+* Use **General Image Generation** for a complete commercial or lifestyle image.
+* Use **Background Replace** to change the environment around your product.
+* Use **Product Swap** to place your product into a reference scene.
+* Use **Style Copy** to follow the lighting, mood, and photography style of another image.
 
-{% hint style="info" %}
-Screenshot needed: Hollapic Studio generation-type selector. Show all generation types visible to the user and highlight one selected option. Place this image here.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-07-16 163511.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 4. Upload the required images
 
@@ -53,9 +51,7 @@ This step is optional.
 
 Choose the aspect ratio or image size that fits where you plan to use the image. Then select the resolution or quality you need.
 
-{% hint style="info" %}
-Screenshot needed: Image-size or aspect-ratio selector and the resolution or quality selector. Highlight both controls. Place this image here.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-07-16 172749.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 8. Generate the image
 
@@ -65,6 +61,6 @@ Review the product, label, logo, colors, text, and overall scene. When you are h
 
 ## Related guides
 
-- [Select the Right Generation Type](../create-images/select-generation-type.md)
-- [Download and Copy Images](../create-images/download-and-copy.md)
-- [Common Image Problems](../help/common-image-problems.md)
+* [Select the Right Generation Type](../create-images/select-generation-type.md)
+* [Download and Copy Images](../create-images/download-and-copy.md)
+* [Common Image Problems](../help/common-image-problems.md)

@@ -6,9 +6,9 @@ Hollapic uses credits for image generation. The plans and credit amounts availab
 
 Your available balance may include:
 
-- **Subscription credits** from an active paid plan
-- **Purchased credits** bought as a one-time credit purchase
-- **Bonus credits** added through signup or an approved promotion
+* **Subscription credits** from an active paid plan
+* **Purchased credits** bought as a one-time credit purchase
+* **Bonus credits** added through signup or an approved promotion
 
 The credit balance shown in Studio reflects your current account or selected workspace.
 
@@ -20,7 +20,7 @@ The credit balance shown in Studio reflects your current account or selected wor
 4. Return to Hollapic and refresh your credit balance if needed.
 
 {% hint style="info" %}
-Screenshot needed: Plans and pricing page showing the available plan cards and the main purchase buttons. Do not include sensitive payment information. Place this after the plan steps.
+
 {% endhint %}
 
 ## Buy custom credits

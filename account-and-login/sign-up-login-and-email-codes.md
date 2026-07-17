@@ -20,16 +20,14 @@ Hollapic uses a six-digit code sent to your email for signup and login.
 
 Older codes may stop working after you request a new one, so always use the latest email.
 
-{% hint style="info" %}
-Screenshot needed: Email-code login screen showing the email field, Send Code button, six-digit code fields, and Continue or Verify button. Place this after the login steps.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-07-16 174621.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Code did not arrive
 
-- Check the email address for typing mistakes.
-- Look in Spam, Junk, Promotions, or Updates.
-- Wait briefly before requesting another code.
-- Use only the latest code you receive.
+* Check the email address for typing mistakes.
+* Look in Spam, Junk, Promotions, or Updates.
+* Wait briefly before requesting another code.
+* Use only the latest code you receive.
 
 ## Send limit
 

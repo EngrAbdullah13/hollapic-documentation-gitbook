@@ -12,7 +12,7 @@ Use Brand DNA when you want new images to follow your saved brand direction.
 
 ## Edit your Brand DNA
 
-1. Open **Settings → Brand DNA**.
+1. From menu open  **→ Brand DNA**.
 2. Update your brand name, products, audience, style, colors, or website.
 3. Save the changes.
 4. Return to Studio for your next generation.
@@ -23,16 +23,18 @@ Future generations use the updated information. Images you created earlier do no
 
 You can skip Brand DNA during onboarding and set it up later from Settings.
 
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Tips
 
-- Keep your brand description short and specific.
-- Choose colors that you actually use in your store.
-- Use Brand DNA as guidance, not as a replacement for clear image instructions.
-- Turn it off when you deliberately need a visual direction outside your normal brand style.
+* Keep your brand description short and specific.
+* Choose colors that you actually use in your store.
+* Use Brand DNA as guidance, not as a replacement for clear image instructions.
+* Turn it off when you deliberately need a visual direction outside your normal brand style.
 
 ## If the result does not match your brand
 
-- Check whether Brand DNA was turned on.
-- Make your current instructions more specific.
-- Remove conflicting style directions.
-- Update unclear or outdated Brand DNA information.
+* Check whether Brand DNA was turned on.
+* Make your current instructions more specific.
+* Remove conflicting style directions.
+* Update unclear or outdated Brand DNA information.

@@ -2,9 +2,7 @@
 
 After Hollapic finishes generating an image, you can download it to your computer or use the copy option shown with the result.
 
-{% hint style="info" %}
-Screenshot needed: A completed generated image in Hollapic Studio. Highlight the **Download** and **Copy** actions. Place this image here.
-{% endhint %}
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Download an image
 
@@ -25,5 +23,5 @@ Open your generation history to review previous results. Select an image to open
 
 ## Related guides
 
-- [Generate Your First Image](../getting-started/generate-your-first-image.md)
-- [Common Image Problems](../help/common-image-problems.md)
+* [Generate Your First Image](../getting-started/generate-your-first-image.md)
+* [Common Image Problems](../help/common-image-problems.md)
