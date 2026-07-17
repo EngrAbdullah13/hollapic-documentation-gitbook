@@ -1,6 +1,6 @@
 # Contact Support
 
-Contact Hollapic support [mailto:info@hollapic.com](mailto:info@hollapic.com)  when the guides do not solve the problem.
+Contact Hollapic support [info@hollapic.com ](mailto:info@hollapic.com) when the guides do not solve the problem.
 
 ## Include the following information
 
