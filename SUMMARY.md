@@ -10,7 +10,6 @@
 ## Create Images
 
 * [Select the Right Generation Type](create-images/select-generation-type.md)
-* [General Image Generation](create-images/general-image-generation.md)
 * [Background Replace](create-images/background-replace.md)
 * [Product Swap](create-images/product-swap.md)
 * [Style Copy](create-images/style-copy.md)
@@ -19,6 +18,7 @@
 * [Packaging Mockup](create-images/packaging-mockup.md)
 * [Collection Image](create-images/collection-image.md)
 * [Product Infographic](create-images/product-infographic.md)
+* [General Image Generation](create-images/general-image-generation.md)
 * [Download and Copy Images](create-images/download-and-copy.md)
 * [Generation Type Use Cases](create-images/generation-type-use-cases.md)
 

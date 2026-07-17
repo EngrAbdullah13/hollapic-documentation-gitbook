@@ -1,34 +1,12 @@
 # Generation Type Use Cases
 
-Upload your product, choose a style, add optional details, select size and quality, then click **Generate**.
-
-* **Professional Studio:** Clean images for product pages and ads.
-* **Product With Human:** Show someone holding or using the product.
-* **Luxury Lifestyle:** Create premium, elegant scenes.
-* **Minimal Background:** Keep the focus on the product.
-* **Outdoor Nature:** Place the product in a natural setting.
-
-For better results, choose a ready-made option, write a custom prompt, or answer the optional questions.
-
-## General Image Generation
-
-Use it to create:
-
-* Ecommerce lifestyle images
-* Product campaign visuals
-* Social media product images
-* Commercial product photography
-* Seasonal or themed product scenes
-
 ## Background Replace
 
 Use it to create:
 
-* Clean studio backgrounds
-* Luxury bathroom or vanity scenes
-* Outdoor or natural environments
-* Seasonal backgrounds
-* Brand-colored environments
+* Apply the background style of a reference image to your product &#x20;
+* Replace a plain background with a studio, lifestyle, outdoor, or seasonal scene&#x20;
+* Match the colors, lighting, and mood of a selected reference background
 
 ## Product Swap
 
@@ -100,7 +78,17 @@ Use it to create:
 
 Always review generated text before publishing an infographic.
 
-##
+## General Image Generation
+
+Upload your product, choose a style, add optional details, select size and quality, then click **Generate**.
+
+* **Professional Studio:** Clean images for product pages and ads.
+* **Product With Human:** Show someone holding or using the product.
+* **Luxury Lifestyle:** Create premium, elegant scenes.
+* **Minimal Background:** Keep the focus on the product.
+* **Outdoor Nature:** Place the product in a natural setting.
+
+For better results, choose a ready-made option, write a custom prompt, or answer the optional questions.
 
 ## Related guides
 
