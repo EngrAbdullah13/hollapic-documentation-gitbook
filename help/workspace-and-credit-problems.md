@@ -6,28 +6,28 @@ Use this page when an invitation, workspace, credit balance, or payment does not
 
 ### Try this
 
-- Confirm the invited email address.
-- Check Spam and Junk folders.
-- Ask the owner to review the invitation status.
-- Ask the owner to resend the invitation when that option is available.
+* Confirm the invited email address.
+* Check Spam and Junk folders.
+* Ask the owner to review the invitation status.
+* Ask the owner to resend the invitation when that option is available.
 
 ## You cannot switch workspaces
 
 ### Try this
 
-- Refresh Hollapic.
-- Open the workspace switcher again.
-- Confirm the invitation was accepted.
-- Ask the owner to confirm your access is still active.
+* Refresh Hollapic.
+* Open the workspace switcher again.
+* Confirm the invitation was accepted.
+* Ask the owner to confirm your access is still active.
 
 ## A collaborator cannot generate
 
 ### Try this
 
-- Confirm the correct shared workspace is selected.
-- Check whether the collaborator’s limited allowance has reached zero.
-- Confirm the owner workspace has available credits.
-- Ask the owner to review the collaborator’s access.
+* Confirm the correct shared workspace is selected.
+* Check whether the collaborator’s limited allowance has reached zero.
+* Confirm the owner workspace has available credits.
+* Ask the owner to review the collaborator’s access.
 
 ## The owner sees fewer available credits
 
@@ -51,7 +51,13 @@ This is expected with Limited Credit Access. The collaborator sees only their re
 
 Check that the checkout or renewal was successful. If it was, contact support with the purchasing email, payment time, and plan information.
 
+
+
+## Still having trouble?
+
+See [Contact Support](contact-support.md).
+
 ## Related guides
 
-- [Switch Workspaces and Manage Credits](../teams-and-workspaces/switch-workspaces-and-credits.md)
-- [Plans, Credits, and Renewals](../credits-and-billing/plans-credits-and-renewals.md)
+* [Switch Workspaces and Manage Credits](../teams-and-workspaces/switch-workspaces-and-credits.md)
+* [Plans, Credits, and Renewals](../credits-and-billing/plans-credits-and-renewals.md)

@@ -10,11 +10,15 @@ Video: **Hollapic Quick Start** — show how to sign in, choose a generation typ
 
 Create your Hollapic account, or log in if you already have one. After signing in, open **Studio**.
 
+[Account and Login](https://app.gitbook.com/s/CJGLpzM7Cg0SmAIpze7V/account-and-login "mention")
+
 ## 2. Set up Brand DNA if you want
 
 Brand DNA is optional. It helps Hollapic understand your brand style, audience, preferred colors, and visual direction.
 
 You can set it up before your first generation or skip it and continue directly to Studio.
+
+[Brand DNA](https://app.gitbook.com/s/CJGLpzM7Cg0SmAIpze7V/brand-dna "mention")
 
 ## 3. Select a generation type
 
@@ -24,6 +28,8 @@ Choose the generation type that matches the image you want to create. For exampl
 * Use **Background Replace** to change the environment around your product.
 * Use **Product Swap** to place your product into a reference scene.
 * Use **Style Copy** to follow the lighting, mood, and photography style of another image.
+
+[Create Images](https://app.gitbook.com/s/CJGLpzM7Cg0SmAIpze7V/create-images "mention")
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-07-16 163511.png" alt="" width="563"><figcaption></figcaption></figure>
 

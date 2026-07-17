@@ -2,7 +2,7 @@
 
 Use General Image Generation to create a complete commercial, advertising, or lifestyle image around your uploaded product.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-07-16 173311.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## How to generate an image
 
